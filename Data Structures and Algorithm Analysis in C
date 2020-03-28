@@ -2,7 +2,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 algorithm analysis算法分析  
 algorithm design techniques算法设计技巧   
 amortized analysis摊还分析  
-acute迫切  
+acute迫切的  
 actually实际地  
 advanced高级的  
 assignment任务
@@ -43,7 +43,7 @@ complex复杂
 case情况  
 constraint限制  
 careful小心的,谨慎的  
-code编码  
+code编码,代码  
 chapter章节 
 civil民事的 
 compile编译  
@@ -73,21 +73,22 @@ dynamically allocated动态分配的
 despite尽管  
 discuss讨论  
 discrete math离散数学 
-develop开发 
+develop开发
+development开发,发展
 determine确定
 describe描述
 divide-and-conquer分而治之
 EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE：
-explanation解释,说明   
+explanation解释,说明  
+explain说明
 efficiency效率 
-estimation估算 
+estimation估算,估计 
 edition版本   
 emphasis重点  
-exercise采取  
-either or两者任一  
+exercise采取,练习  
+either or两者任一;  
 explore探讨 
-external外部的  
-exercise练习 
+external外部的   
 exposition说明  
 extension拓展 
 examining研究  
@@ -109,7 +110,7 @@ finally最终地
 GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG：
 general-purpose通用 
 generally通常地 
-graduate研究生
+graduate course研究生课程
 goals目标 
 graph analysis图论算法  
 HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH:
@@ -119,7 +120,7 @@ historical历史性的
 heavily很大程度上,大量地 
 hash tables哈希表  
 half to three-quarters一半到四分之三  
-hashing散列
+hashing散列,哈希
 IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII:
 introduction引论  
 intuitively直观地  
@@ -145,7 +146,7 @@ JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ
 KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK:
 keystroke击键  
 LLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLLL:
-large amounts of大量  
+large amounts of大量的  
 lists表  
 look at研究 
 less than a second不到一秒  
@@ -174,7 +175,8 @@ outstanding出色的
 on the other hand另一方面  
 over and over一遍又一遍
 PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP:
-preface前言  
+preface前言 
+powerful强大的
 priority queues(heaps)优先队列(堆)  
 purpose目的  
 program程序  
@@ -183,7 +185,7 @@ present提出,表示,显示
 particular特定的  
 put up with忍受 
 previous以前的
-production制作
+production制作,生产
 pointer指针  
 prevalent普遍的  
 perform执行,介绍
@@ -205,7 +207,7 @@ queues队列
 quicksort快速排序
 RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR:
 run运行 
-require需要 
+require需要,要求 
 routines例行程序
 relatively相对地
 rather than而不是
@@ -225,7 +227,7 @@ recurrence循环
 relation关系  
 SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS:
 solution解决方案,解决   
-specific特定的  
+specific特定的,具体的  
 see了解  
 such此类 
 stacks栈  
@@ -240,7 +242,6 @@ supply提供
 standard标准的  
 simultaneous assignment同时分配  
 speed速度  
-specific具体的
 section部分
 separately单独地
 suffer through遭受
@@ -256,7 +257,7 @@ TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
 the disjoint set ADT不相交集ADT  
 trees树 
 therefore因此 
-thus因此  
+thus因此,从而,因而  
 topic主题
 test against测试  
 trick技巧
