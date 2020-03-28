@@ -6,7 +6,7 @@ acute迫切的
 actually实际地  
 advanced高级的  
 assignment任务
-additional coverage额外覆盖
+additional coverage额外涵盖
 at the end of在……的末尾
 along with随着
 appropriate适当的
@@ -23,16 +23,21 @@ a few几次
 arguably可以说  
 about大约 
 approach方法
+aim目的
 BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB：
 be marked with被标记  
-brief简短的  
+brief简短的
+briefly简要地
 be referred to被引用到  
 be heavily fortified with examples大量举例说明  
 binary二进制  
-be consider as被视为  
+be considered as被视为  
 be comfortable for适应  
 barely readable不可读的  
 be suitable for适合于
+basic基本的
+bubblesort冒泡排序
+bump撞
 CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC：
 compensate弥补   
 clarity清晰度  
@@ -40,7 +45,7 @@ center on集中在
 criticism批评  
 course课程  
 complex复杂  
-case情况  
+case情况,例子
 constraint限制  
 careful小心的,谨慎的  
 code编码,代码  
@@ -61,6 +66,8 @@ complete完成
 complicated复杂的 
 convert into转换为 
 care措施
+concept概念
+correct正确的
 DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD：
 draft草案  
 detailed详细的  
@@ -141,6 +148,7 @@ introduce引入
 in particular尤其 
 improvement改进
 insertion sort插入排序
+ignore忽略
 JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ:
 
 KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK:
@@ -160,6 +168,9 @@ match相匹配
 meet满足
 manual手册
 major主要的  
+mathematics数学
+mathematical数学的
+moderate中等的
 NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN:
 
 OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO:
@@ -174,6 +185,8 @@ obtain获得
 outstanding出色的  
 on the other hand另一方面  
 over and over一遍又一遍
+one by one一个一个地
+otherwise否则
 PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP:
 preface前言 
 powerful强大的
@@ -201,10 +214,12 @@ printer打印机
 product产物
 pseudocode伪代码
 place放
-popular受欢迎的  
+popular受欢迎的 
+performance性能
 QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ:
 queues队列  
 quicksort快速排序
+quite十分,很
 RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR:
 run运行 
 require需要,要求 
@@ -224,7 +239,10 @@ reasonable合理的
 review material复习材料 
 recursive递归的  
 recurrence循环  
-relation关系  
+relation关系 
+reasonably相当地
+read into读入
+remaining剩余的
 SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS:
 solution解决方案,解决   
 specific特定的,具体的  
@@ -253,6 +271,12 @@ shellsort希尔排序
 splay展开
 similar类似的
 skip跳过
+style风格
+summarize总结
+suppose假设
+selection problem选择问题
+somewhat有些
+spot位置
 TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT:
 the disjoint set ADT不相交集ADT  
 trees树 
