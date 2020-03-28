@@ -1,3 +1,296 @@
-edition版本   preface前言   chapter章节   introduction简介   algorithm analysis算法分析   lists列表   stacks栈   queues队列   trees树
-hashing散列   priority queues(heaps)优先队列(堆)   sorting排序   the disjoint set ADT不相交集ADT   graph analysis图论算法   
-algorithm design techniques算法设计技巧   amortized analysis摊还分析
+AAAAAAAAAAAA：
+algorithm analysis算法分析  
+algorithm design techniques算法设计技巧   
+amortized analysis摊还分析  
+acute迫切  
+actually实际地  
+advanced高级的  
+assignment任务
+additional coverage额外覆盖
+at the end of在……的末尾
+along with随着
+appropriate适当的
+appreciate欣赏
+alphabetically按字母顺序  
+assistant助手  
+acknowledgments致谢  
+available可用的  
+asterisk星号  
+address针对  
+augment扩充  
+asymptotic analysis渐进分析
+a few几次  
+arguably可以说  
+about大约 
+approach方法
+BBBBBBBBBBBB：
+be marked with被标记  
+brief简短的  
+be referred to被引用到  
+be heavily fortified with examples大量举例说明  
+binary二进制  
+be consider as被视为  
+be comfortable for适应  
+barely readable不可读的  
+be suitable for适合于
+CCCCCCCCCCCC：
+compensate弥补   
+clarity清晰度  
+center on集中在  
+criticism批评  
+course课程  
+complex复杂  
+case情况  
+constraint限制  
+careful小心的,谨慎的  
+code编码  
+chapter章节 
+civil民事的 
+compile编译  
+check through检查  
+class notes课堂笔记 
+considerably相当地 
+cover涵盖  
+common常见的 
+completeness完备性  
+complexity theory复杂性理论 
+context背景 
+compare比较 
+concerning有关 
+complete完成 
+complicated复杂的 
+convert into转换为 
+care措施
+DDDDDDDDDDDD：
+draft草案  
+detailed详细的  
+dependent on取决于  
+detail细节  
+defer推迟 
+delay延迟 
+demonstrate证明  
+dynamically allocated动态分配的 
+despite尽管  
+discuss讨论  
+discrete math离散数学 
+develop开发 
+determine确定
+describes描述
+divide-and-conquer分而治之
+EEEEEEEEEEEE：
+explanation解释,说明   
+efficiency效率 
+estimation估算 
+edition版本   
+emphasis重点  
+exercise采取  
+either or两者任一  
+explore探讨 
+external外部的  
+exercise练习 
+exposition说明  
+extension拓展 
+examining研究  
+extendible可拓展的 
+external medium外部媒介
+expression表达式 
+educator教育家 
+error错误  
+editor编辑 
+expect预期
+FFFFFFFFFFFF：
+frequently经常地 
+final最后的  
+file compression文件压缩
+fact事实  
+flaw缺陷  
+feasible可行的  
+finally最终地 
+GGGGGGGGGGGG：
+general-purpose通用 
+generally通常地 
+graduate研究生
+goals目标 
+graph analysis图论算法  
+HHHHHHHHHHHH:
+handle处理 
+harrowing痛苦的
+historical历史性的 
+heavily很大程度上,大量地 
+hash tables哈希表  
+half to three-quarters一半到四分之三  
+hashing散列
+IIIIIIIIIIII:
+introduction引论  
+intuitively直观地  
+in-depth深入  
+increase提高  
+instance处理 
+instead of而不是 
+issue问题  
+intermediate中间  
+intricate复杂的 
+implementation实施方式,实现 
+inefficiency低效率
+iteration迭代  
+iterative迭代的  
+implicitly隐式地
+in detail详细地
+introduce引入  
+in particular尤其 
+improvement改进
+insertion sort插入排序
+JJJJJJJJJJJJ:
+
+KKKKKKKKKKKK:
+keystroke击键  
+LLLLLLLLLLLL:
+large amounts of大量  
+lists表  
+look at研究 
+less than a second不到一秒  
+logarithmic对数  
+leave留
+later后面的
+MMMMMMMMMMMM:
+maximum最大  
+minute details详细信息  
+match相匹配
+meet满足
+manual手册
+major主要的  
+NNNNNNNNNNNN:
+
+OOOOOOOOOOOO:
+organize组织  
+obvious明显的 
+overview概述  
+occur发生
+obscured模糊的
+one-semester一学期
+order顺序
+obtain获得
+outstanding出色的  
+on the other hand另一方面  
+over and over一遍又一遍
+PPPPPPPPPPPP:
+preface前言  
+priority queues(heaps)优先队列(堆)  
+purpose目的  
+program程序  
+paradoxically矛盾的是  
+present提出,表示,显示
+particular特定的  
+put up with忍受 
+previous以前的
+production制作
+pointer指针  
+prevalent普遍的  
+perform执行,介绍
+plenty of许多
+proof证明
+practice实践
+proper正确的
+permit允许
+production schedule生产进度
+particularly特别地
+project项目
+printer打印机
+product产物
+pseudocode伪代码
+place放
+popular受欢迎的  
+QQQQQQQQQQQQ:
+queues队列  
+quicksort快速排序
+RRRRRRRRRRRR:
+run运行 
+require需要 
+routines例行程序
+relatively相对地
+rather than而不是
+references参考文献
+reviewers审稿人
+relief救济
+represent代表
+respect to关于 
+rest其余   
+realistic现实的  
+recursion递归  
+rehashing再散列  
+reasonable合理的  
+review material复习材料 
+recursive递归的  
+recurrence循环  
+relation关系  
+SSSSSSSSSSSS:
+solution解决方案,解决   
+specific特定的  
+see了解  
+such此类 
+stacks栈  
+sorting排序 
+simultaneously同时  
+sample code实例代码 
+several几个  
+simplified简化的  
+short-circuited短路的  
+see for参见   
+supply提供   
+standard标准的  
+simultaneous assignment同时分配  
+speed速度  
+specific具体的
+section部分
+separately单独地
+suffer through遭受
+sketchy粗略的
+send out发送
+shelter庇护
+staff员工 
+shellsort希尔排序
+splay展开
+similar类似的
+skip跳过
+TTTTTTTTTTTT:
+the disjoint set ADT不相交集ADT  
+trees树 
+therefore因此 
+thus因此  
+topic主题
+test against测试  
+trick技巧
+the loss of……的损失  
+the original source of原始来源
+the professionals专业人士
+top顶尖的
+tape胶带
+technique技术
+theoretically理论上
+UUUUUUUUUUUU:
+unreadable不可读的  
+use使用，用途
+undecidability不确定性
+VVVVVVVVVVVV:
+virtually几乎  
+via通过  
+version版本
+valuable comments宝贵的意见
+WWWWWWWWWWWW:
+weakness缺点  
+XXXXXXXXXXXX:
+
+YYYYYYYYYYYY:
+
+ZZZZZZZZZZZZ:
+
+
+
+
+
+
+
+
+
+
+     
