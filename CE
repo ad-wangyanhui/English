@@ -1,19 +1,20 @@
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA：
+acute迫切的
+actually实际地 
+acknowledgments致谢 
 algorithm analysis算法分析  
 algorithm design techniques算法设计技巧   
 amortized analysis摊还分析  
-acute迫切的  
-actually实际地  
 advanced高级的  
 assignment任务
+assigned已分配的
 additional coverage额外涵盖
 at the end of在……的末尾
-along with随着
+along with随着,以及
 appropriate适当的
 appreciate欣赏
 alphabetically按字母顺序  
 assistant助手  
-acknowledgments致谢  
 available可用的  
 asterisk星号  
 address针对  
@@ -24,6 +25,15 @@ arguably可以说
 about大约 
 approach方法
 aim目的
+array数组
+access访问
+at a time一次
+as follows如下
+and so on依次类推
+advantage优点
+add添加
+additional resources其他资源
+average time complexity平均时间复杂度
 BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB：
 be marked with被标记  
 brief简短的
@@ -38,6 +48,11 @@ be suitable for适合于
 basic基本的
 bubblesort冒泡排序
 bump撞
+built-in by default默认内置
+base address基地址
+bound界,范围
+be known as被称为
+be similar to与……相似
 CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC：
 compensate弥补   
 clarity清晰度  
@@ -47,6 +62,7 @@ course课程
 complex复杂  
 case情况,例子
 constraint限制  
+constant不变的
 careful小心的,谨慎的  
 code编码,代码  
 chapter章节 
@@ -59,8 +75,9 @@ cover涵盖
 common常见的 
 completeness完备性  
 complexity theory复杂性理论 
+complexity of operation操作的复杂性
 context背景 
-compare比较 
+compare A with B将A与B进行比较 
 concerning有关 
 complete完成 
 complicated复杂的 
@@ -68,6 +85,18 @@ convert into转换为
 care措施
 concept概念
 correct正确的
+contagious传染性的
+contiguous memory location连续的内存位置
+continuous连续的
+calculating the address of array elements计算数组元素的地址
+consecutive连续的
+column列
+column by column逐列
+contain包含
+collection集合
+count数,计算
+corresponding to分别对应于
+check out official site访问官网
 DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD：
 draft草案  
 detailed详细的  
@@ -85,10 +114,17 @@ development开发,发展
 determine确定
 describe描述
 divide-and-conquer分而治之
+declare声明
+deletion删除
+define定义
+directly直接地
+display显示
+decrease减少
 EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE：
 explanation解释,说明  
 explain说明
 efficiency效率 
+efficient有效的
 estimation估算,估计 
 edition版本   
 emphasis重点  
@@ -106,6 +142,11 @@ educator教育家
 error错误  
 editor编辑 
 expect预期
+element元素
+extremely非常地
+e.g例如
+existing现有的
+enter输入
 FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF：
 frequently经常地 
 final最后的  
@@ -114,6 +155,10 @@ fact事实
 flaw缺陷  
 feasible可行的  
 finally最终地 
+fixed固定的
+formula公式
+find out找出,查找
+field字段
 GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG：
 general-purpose通用 
 generally通常地 
@@ -128,6 +173,7 @@ heavily很大程度上,大量地
 hash tables哈希表  
 half to three-quarters一半到四分之三  
 hashing散列,哈希
+hold保存
 IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII:
 introduction引论  
 intuitively直观地  
@@ -141,7 +187,8 @@ intricate复杂的
 implementation实施方式,实现 
 inefficiency低效率
 iteration迭代  
-iterative迭代的  
+iterative迭代的 
+iterate through遍历
 implicitly隐式地
 in detail详细地
 introduce引入  
@@ -149,6 +196,15 @@ in particular尤其
 improvement改进
 insertion sort插入排序
 ignore忽略
+image图片
+integer整数
+index(indices)索引
+item项目
+insufficient不足的
+involve specifying following涉及指定以下内容
+identify识别,确定
+introduction to arrays数组简介
+in-between already present elements已经存在的元素之间
 JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ:
 
 KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK:
@@ -161,6 +217,11 @@ less than a second不到一秒
 logarithmic对数  
 leave留
 later后面的
+linked链接
+linked list链表
+limitation限制
+loop循环
+linear or sequential search线性搜索或顺序搜索
 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:
 maximum最大  
 minute details详细信息  
@@ -171,8 +232,19 @@ major主要的
 mathematics数学
 mathematical数学的
 moderate中等的
+modern现代的
+make标记,分数
+multiple values多个值
+multidimensional array多维数组
+method方法
+next to在……旁边
 NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN:
-
+number of个数
+next下一个
+non-zero values非零值
+notice注意到
+node节点
+nest嵌套
 OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO:
 organize组织  
 obvious明显的 
@@ -187,6 +259,14 @@ on the other hand另一方面
 over and over一遍又一遍
 one by one一个一个地
 otherwise否则
+one dimensional array一维数组
+offer提供
+original原始的
+one place after一个位置之后
+one place ahead一个位置之前
+overwritten覆写
+one end一端
+once一次
 PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP:
 preface前言 
 powerful强大的
@@ -206,6 +286,7 @@ plenty of许多
 proof证明
 practice实践
 proper正确的
+property属性,特性
 permit允许
 production schedule生产进度
 particularly特别地
@@ -216,6 +297,8 @@ pseudocode伪代码
 place放
 popular受欢迎的 
 performance性能
+preferred首选的
+pointer to the next node指向下一节点的指针
 QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ:
 queues队列  
 quicksort快速排序
@@ -227,10 +310,12 @@ routines例行程序
 relatively相对地
 rather than而不是
 references参考文献
+refer to表示
 reviewers审稿人
 relief救济
 represent代表
 respect to关于 
+respective各自的,相应的
 rest其余   
 realistic现实的  
 recursion递归  
@@ -243,6 +328,14 @@ relation关系
 reasonably相当地
 read into读入
 remaining剩余的
+resize dynamically动态地调整大小
+row行
+representation of 2D arrays in memory内存中二维数组的表示形式
+row major form行主要形式
+row by row逐行
+represent表示
+read about了解
+reszpective负责任的
 SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS:
 solution解决方案,解决   
 specific特定的,具体的  
@@ -250,10 +343,12 @@ see了解
 such此类 
 stacks栈  
 sorting排序 
+searching搜索
 simultaneously同时  
 sample code实例代码 
 several几个  
 simplified简化的  
+simple简单的
 short-circuited短路的  
 see for参见   
 supply提供   
@@ -261,7 +356,7 @@ standard标准的
 simultaneous assignment同时分配  
 speed速度  
 section部分
-separately单独地
+separately单独地,分别地
 suffer through遭受
 sketchy粗略的
 send out发送
@@ -277,6 +372,17 @@ suppose假设
 selection problem选择问题
 somewhat有些
 spot位置
+store存储
+single单一的
+sufficient足够的
+space空间
+syntax句法
+sequentially按顺序地
+sparse matrix稀疏矩阵
+save computing time节省计算时间
+size大小
+such that以使
+shift移
 TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT:
 the disjoint set ADT不相交集ADT  
 trees树 
@@ -292,17 +398,26 @@ top顶尖的
 tape胶带
 technique技术
 theoretically理论上
+tedious繁琐的
+type类型
+triplet三元组
+total总
 UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU:
 unreadable不可读的  
 use使用，用途
 undecidability不确定性
+unsorted未排序的
 VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV:
-virtually几乎  
-via通过  
-version版本
 valuable comments宝贵的意见
+variable变量
+various各种各样的
+version版本
+via通过 
+virtually几乎  
+visualise显示
 WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW:
 weakness缺点  
+work by工作原理
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX:
 
 YYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYYY:
