@@ -40,7 +40,8 @@ brief简短的
 briefly简要地
 be referred to被引用到  
 be heavily fortified with examples大量举例说明  
-binary二进制  
+binary二进制 
+binary search二分搜索,二分查找
 be considered as被视为  
 be comfortable for适应  
 barely readable不可读的  
@@ -53,6 +54,7 @@ base address基地址
 bound界,范围
 be known as被称为
 be similar to与……相似
+an algorithm recall一个算法召回,调回
 CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC：
 compensate弥补   
 clarity清晰度  
@@ -97,6 +99,9 @@ collection集合
 count数,计算
 corresponding to分别对应于
 check out official site访问官网
+condition条件
+conclude得出结论
+come up short简短
 DDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD：
 draft草案  
 detailed详细的  
@@ -120,6 +125,8 @@ define定义
 directly直接地
 display显示
 decrease减少
+due to由于
+distilled version of this sentence这句话的精简版
 EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE：
 explanation解释,说明  
 explain说明
@@ -134,7 +141,7 @@ explore探讨
 external外部的   
 exposition说明  
 extension拓展 
-examining研究  
+examining研究,测试  
 extendible可拓展的 
 external medium外部媒介
 expression表达式 
@@ -146,7 +153,11 @@ element元素
 extremely非常地
 e.g例如
 existing现有的
+exist存在
 enter输入
+excellent优秀的
+exhaustively详尽地
+entire整个
 FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF：
 frequently经常地 
 final最后的  
@@ -159,12 +170,15 @@ fixed固定的
 formula公式
 find out找出,查找
 field字段
+failed失败
 GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG：
 general-purpose通用 
 generally通常地 
 graduate course研究生课程
 goals目标 
 graph analysis图论算法  
+go through经过
+gonna会
 HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH:
 handle处理 
 harrowing痛苦的
@@ -174,6 +188,8 @@ hash tables哈希表
 half to three-quarters一半到四分之三  
 hashing散列,哈希
 hold保存
+halve减半
+hence从而,因此
 IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII:
 introduction引论  
 intuitively直观地  
@@ -188,7 +204,7 @@ implementation实施方式,实现
 inefficiency低效率
 iteration迭代  
 iterative迭代的 
-iterate through遍历
+iterate through\across遍历
 implicitly隐式地
 in detail详细地
 introduce引入  
@@ -205,6 +221,8 @@ involve specifying following涉及指定以下内容
 identify识别,确定
 introduction to arrays数组简介
 in-between already present elements已经存在的元素之间
+in turn反过来
+in the sense在这个意义上
 JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ:
 
 KKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK:
@@ -222,6 +240,8 @@ linked list链表
 limitation限制
 loop循环
 linear or sequential search线性搜索或顺序搜索
+look through浏览
+land on a situation着陆
 MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM:
 maximum最大  
 minute details详细信息  
@@ -245,6 +265,7 @@ non-zero values非零值
 notice注意到
 node节点
 nest嵌套
+nature性质
 OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO:
 organize组织  
 obvious明显的 
@@ -299,6 +320,8 @@ popular受欢迎的
 performance性能
 preferred首选的
 pointer to the next node指向下一节点的指针
+process过程
+per se本身
 QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ:
 queues队列  
 quicksort快速排序
@@ -336,9 +359,11 @@ row by row逐行
 represent表示
 read about了解
 reszpective负责任的
+repeat重复
 SSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS:
 solution解决方案,解决   
 specific特定的,具体的  
+specified指定的
 see了解  
 such此类 
 stacks栈  
@@ -383,6 +408,10 @@ save computing time节省计算时间
 size大小
 such that以使
 shift移
+step-by-step set of instructions分布说明
+still仍然
+step over跨过
+scenario情景
 TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT:
 the disjoint set ADT不相交集ADT  
 trees树 
@@ -402,6 +431,7 @@ tedious繁琐的
 type类型
 triplet三元组
 total总
+target目标
 UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU:
 unreadable不可读的  
 use使用，用途
@@ -415,6 +445,8 @@ version版本
 via通过 
 virtually几乎  
 visualise显示
+visualisation可视化
+video视频
 WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW:
 weakness缺点  
 work by工作原理
